@@ -10,6 +10,10 @@ public class Test {
 		System.out.println("some code");
 
 		System.out.println("another some code");
+
+		int t = 1000;
+
+		t = t*t;
 		
 		
 		
@@ -25,6 +29,7 @@ public class Test {
 		
 
 		int x = 1;
+		x = x + y;
 
 		
 		
