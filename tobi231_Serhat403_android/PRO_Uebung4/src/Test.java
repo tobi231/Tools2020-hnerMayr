@@ -10,4 +10,13 @@ public class Test {
 		System.out.println("some code");
 		
 	}
+	
+	public void thisIsANewMethod() { 
+		
+		
+		
+	}
+	
+	
+	
 }
