@@ -11,9 +11,16 @@ public class Test {
 
 		System.out.println("another some code");
 		
+		
+		
+		
+		
+		
 	}
 	
 	public void thisIsANewMethod() { 
+		
+		int x =0;
 		
 		
 		
