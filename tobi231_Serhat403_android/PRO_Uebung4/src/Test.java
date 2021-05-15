@@ -19,9 +19,13 @@ public class Test {
 	}
 	
 	public void thisIsANewMethod() { 
+
 		
-		int x =0;
+		int y =0;
 		
+
+		int x = 1;
+
 		
 		
 	}
