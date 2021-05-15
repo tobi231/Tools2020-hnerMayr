@@ -14,7 +14,7 @@ public class Test {
 	}
 	
 	public void thisIsANewMethod() { 
-		
+		int x = 1;
 		
 		
 	}
