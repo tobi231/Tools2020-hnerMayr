@@ -31,7 +31,7 @@ public class Test {
 		int x = 1;
 		x = x + y;
 
-		
+		Sytem.out.println("Exercise 5: Bugfix");
 		
 	}
 	
